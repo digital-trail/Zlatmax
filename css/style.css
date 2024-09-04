@@ -5378,8 +5378,8 @@ body {
   }
 }
 
-.webp .text-footer{ background: url(./img/footer/bg1.webp) top/cover no-repeat; }
+.webp .text-footer{ background: url(/img/footer/bg1.webp) top/cover no-repeat; }
 
-.webp .products-new{ background: url(./img/new-products/bg2.webp) bottom/cover no-repeat; }
+.webp .products-new{ background: url(/img/new-products/bg2.webp) bottom/cover no-repeat; }
 
-.webp .main-block{ background: url(./img/mainpage/main-block/bg01.webp) center/cover no-repeat; }
+.webp .main-block{ background: url(/img/mainpage/main-block/bg01.webp) center/cover no-repeat; }
