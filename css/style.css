@@ -1452,7 +1452,7 @@ body {
 }
 
 .no-webp .text-footer{
-  background: url("img/footer/bg1.jpg") top/cover no-repeat; }
+  background: url("/img/footer/bg1.jpg") top/cover no-repeat; }
 
 .text-footer__title {
   color: #e8aa31;
@@ -1895,7 +1895,7 @@ body {
 }
 
 .no-webp .products-new{
-  background: url("img/new-products/bg2.jpg") bottom/cover no-repeat; }
+  background: url("./new-products/bg2.jpg") bottom/cover no-repeat; }
 
 .products-new {
   padding: 2.8125rem 0px 0px 0px;
@@ -2496,7 +2496,7 @@ body {
 }
 
 .no-webp .main-block{
-  background: url("mainpage/main-block/bg01.jpg") center/cover no-repeat; }
+  background: url("../mainpage/main-block/bg01.jpg") center/cover no-repeat; }
 
 .main-block__body {
   display: -ms-grid;
