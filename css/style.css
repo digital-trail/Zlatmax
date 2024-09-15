@@ -2495,8 +2495,8 @@ body {
   left: 1.25rem;
 }
 
-.no-webp .main-block{
-  background: url("img/bg01.jpg") center/cover no-repeat; }
+.no-webp .main-block {
+  background: url("img/mainpage/main-block/bg01.jpg") center/cover no-repeat; }
 
 .main-block__body {
   display: -ms-grid;
